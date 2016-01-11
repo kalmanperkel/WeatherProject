@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onStop() {
-//jjjjj
+
             super.onStop();
             Toast tst = Toast.makeText(this,"Activity Stopped",Toast.LENGTH_SHORT);
             tst.show();
